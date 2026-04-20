@@ -1,5 +1,9 @@
 # 🌿 LifeNode Filar II: Quantum Medicine & Phase-Coherent Trajectories
 
+<p align="center">
+  <img src="hero.jpg" width="100%" alt="LifeNode Pillar II Hero Image">
+</p>
+
 > *Medicine today measures states. LifeNode listens to phases.*
 
 This repository documents the research, architecture, and validation protocols for **LifeNode Pillar II**—a process-intelligence framework shifting healthcare from reactive state-diagnosis to proactive trajectory maintenance. We do not treat the body as a machine to optimize. We treat it as a dynamic trajectory to synchronize.
