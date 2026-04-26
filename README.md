@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="Toroidal Scaling Hypothesis.png" width="100%" alt="LifeNode Core Hypothesis">
+</p>
+
 # 🌿 LifeNode Filar II: Quantum Medicine & Phase-Coherent Trajectories
 
 <p align="center">
