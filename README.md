@@ -5,6 +5,10 @@
 
 # 🌿 LifeNode Filar II: Quantum Medicine & Phase-Coherent Trajectories
 
+27.04.2026 🔬 NEW Zenodo:
+ "Symplectic Trajectory Reconstruction" - Mathematical protocol for phase-based diagnostics in biological systems. Shifts from state snapshots to trajectory maintenance using Takens embedding, NLSE solitons, and topological invariants. Validated from mycelium to 3I/ATLAS. #LifeNode #QuantumBiology #ProcessIntelligence
+DOI: https://doi.org/10.5281/zenodo.19811561
+
 <p align="center">
   <img src="hero.jpg" width="100%" alt="LifeNode Pillar II Hero Image">
 </p>
