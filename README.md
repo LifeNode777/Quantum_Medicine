@@ -167,3 +167,6 @@ The LifeNode project operates at the intersection of mycelial electrophysiology,
     - **Significance:** Observational evidence of toroidal field organization as a fundamental scaling pattern, mirroring the **Q-Core YBCO** toroidal coil geometry.
 * **Zenodo (April 2025).** *"The Theory of Toroidal Hypercoherence (ToE-2PS)."*
     - **Significance:** Theoretical framework for consciousness as a geometric condensate, providing the epistemic link for the LifeNode "Sense Energy" ($E_s(t)$) models.
+
+---
+https://zenodo.org/records/20621097
