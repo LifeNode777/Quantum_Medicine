@@ -170,3 +170,4 @@ The LifeNode project operates at the intersection of mycelial electrophysiology,
 
 ---
 https://zenodo.org/records/20621097
+https://zenodo.org/records/20716388
