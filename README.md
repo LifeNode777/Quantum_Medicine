@@ -169,5 +169,6 @@ The LifeNode project operates at the intersection of mycelial electrophysiology,
     - **Significance:** Theoretical framework for consciousness as a geometric condensate, providing the epistemic link for the LifeNode "Sense Energy" ($E_s(t)$) models.
 
 ---
+https://zenodo.org/records/20851251
 https://zenodo.org/records/20621097
 https://zenodo.org/records/20716388
