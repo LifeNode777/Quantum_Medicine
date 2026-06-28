@@ -3,6 +3,8 @@ NEW ZENODO 🕵🏻‍♂️
 
 Hydrogel Phase Membrane
 
+![Hydrogel Phase Membrane](Hydrogel%20Phase%20Membrane.png)
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21001729.svg)](https://doi.org/10.5281/zenodo.21001729)
 
 -------
