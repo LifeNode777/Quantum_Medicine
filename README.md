@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21001729.svg)](https://doi.org/10.5281/zenodo.21001729)
 NEW ZENODO 🕵🏻‍♂️
 
 Hydrogel Phase Membrane
