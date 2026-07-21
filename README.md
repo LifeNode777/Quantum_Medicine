@@ -1,3 +1,24 @@
+21 lipca
+## ASCALON Framework: Symplectic Trajectory Purity & Phase-Drift Detection
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21471228.svg)](https://doi.org/10.5281/zenodo.21471228)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+![ASCALON Decoherence Early Warning Interface](alert_ASCALON_decoherence.png)
+
+**Preprint Version:** 1.0  
+**Status:** Theoretical Framework / Phase Space Metrics  
+**License:** CC-BY-NC-SA 4.0  
+**Date:** July 21, 2026  
+**DOI:** [10.5281/zenodo.21471228](https://doi.org/10.5281/zenodo.21471228)
+
+### Abstract
+Classical biomedical diagnostics and artificial intelligence operate under a fundamental ontological error: treating biological time as an isotropic, Newtonian background parameter...
+
+
+---
+
+
 20 lipca
 
 # Operacjonalizacja Medycyny Fazowej: Konstrukcja i stabilizacja trajektorii w przestrzeni Finslera
