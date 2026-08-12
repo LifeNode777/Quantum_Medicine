@@ -41,6 +41,7 @@ To maintain scientific rigor in non-disciplinary environments, the document enfo
 Hydrogel Phase Membrane, Experimental Protocol, Mycelial Electrophysiology, *Pleurotus ostreatus*, K1/K2 Motifs, Takens Embedding, Phase Space Reconstruction, ASCALON Metric, Star-Shaped Electrode Array, PEDOT:PSS, Bio-Digital Coupling, Quantum Medicine, LifeNode
 
 ⚙️ https://github.com/LifeNode777/Quantum_Medicine/blob/main/HYDROGEL_PHASE_MEMBRANE_v2.md 🧪
+https://zenodo.org/records/21901935
 
 ---
 
