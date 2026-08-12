@@ -157,3 +157,5 @@ Niniejszy protokół jest świadomy że jest to tylko pierwszy krok. Jego głów
 Podsumowując, protokół HMF jest nie tylko instrukcją do budowy, ale także strategicznym planem badawczym. Definiuje on ścisłe kryteria naukowe, które muszą zostać spełnione, aby eksperyment miał sens. W przypadku powodzenia, stanie się on fundamentem dla budowy następnej, rewolucyjnej generacji urządzeń medycznych, które zmienią perspektywę na zdrowie i chorobę z reaktywnej na proaktywną.
 
 🧿
+
+https://zenodo.org/records/21901935
