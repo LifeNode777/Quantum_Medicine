@@ -14,6 +14,36 @@
 ---
 </div>
 
+---
+
+**From Ionic Impulse to Phase Attractor: Experimental Protocol for the Bio-Digital Phase Bridge (HMF v2.0) with *Pleurotus ostreatus* Mycelium**
+
+
+### Description:
+
+This document (Version 2.0) represents a fundamental evolution from the theoretical component specification of HMF v1.0 (June 2026) into a fully operational, reproducible experimental protocol. It details the "garage-level" construction and validation of the first Hydrogel Phase Membrane (HMF v1.0 physical prototype) interfaced with living *Pleurotus ostreatus* mycelium. 
+
+The primary objective of this protocol is the continuous recording of low-frequency bio-electrical motifs (K1/K2) while strictly preserving their geometric and phase integrity, bypassing the destructive discretization ("phase death") inherent in classical Analog-to-Digital Converters (ADC).
+
+**Integration of 2026 State-of-the-Art Research**
+This protocol is rigorously grounded in the latest empirical validations from 2026. It incorporates Andrew Adamatzky’s recent findings on the directional electrical spiking in oyster mycelium, mandating the use of a **star-shaped electrode array** (minimum 4-5 channels) to adequately capture the vector nature and flow topology of the biological signal. Furthermore, it introduces **PEDOT:PSS** as an optional hydrogel infusion—a validated ion-to-electron bridge that minimizes contact noise in biohybrid interfaces.
+
+**Analog Front-End and Phase Protection**
+To prevent the collapse of the symplectic trajectory during measurement, the protocol specifies a dedicated analog front-end architecture. Utilizing ultra-high impedance instrumentation amplifiers (INA128/AD620) coupled with a strict analog low-pass RC filter ($f_c \approx 1$ Hz), the system physically isolates the ultra-slow Macro-BPB signals (0.001–0.03 Hz) from environmental noise before any low-frequency (0.1–1 Hz) digitization occurs.
+
+**From Voltage to Phase Space (LifeNode Methodology)**
+Data analysis in this protocol shifts entirely from scalar voltage interpretation to geometric reconstruction. Following the LifeNode Filar II (Quantum Medicine) paradigm, the raw time-series data is subjected to **Takens’ Embedding Theorem** to reconstruct the system's dynamic attractor in phase space. The protocol establishes visual and mathematical criteria for identifying the quasi-toroidal structure of biological homeostasis and defines the early warning signs of its decoherence ("smudging"), conceptually linked to the ASCALON purity metric ($\theta < 0.70$).
+
+**Falsifiability and Technological Roadmap**
+To maintain scientific rigor in non-disciplinary environments, the document enforces strict falsifiability procedures, including mandatory blind control tests (sterile hydrogel setups) and microclimate logging (>90% humidity). Finally, it outlines the technological scaling path from this garage-level proof-of-concept (TRL 2-3) to the target 4H-SiC divacancy quantum sensing platform (TRL 4+), where the HMF will ultimately serve as a protective barrier against spin decoherence via the Stark effect.
+
+**Keywords:**
+Hydrogel Phase Membrane, Experimental Protocol, Mycelial Electrophysiology, *Pleurotus ostreatus*, K1/K2 Motifs, Takens Embedding, Phase Space Reconstruction, ASCALON Metric, Star-Shaped Electrode Array, PEDOT:PSS, Bio-Digital Coupling, Quantum Medicine, LifeNode
+
+⚙️ https://github.com/LifeNode777/Quantum_Medicine/blob/main/HYDROGEL_PHASE_MEMBRANE_v2.md 🧪
+
+---
+
 > [!IMPORTANT]
 > 👁️ New Essay comparable in "weight" to the core "Civilization of Resonance" 👁️
 > 📜 **[From Temple to Tensor: Why Ancient Intuitions About Life Were Right All Along](https://github.com/LifeNode777/LifeNode_2.0/blob/main/From%20Temple%20to%20Tensor%20Why%20Ancient%20Intuitions%20About%20Life%20Were%20Right%20All%20Along.md)**
