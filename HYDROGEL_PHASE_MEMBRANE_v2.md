@@ -60,7 +60,7 @@ Procedura ta musi odbywać się w możliwie sterylnej atmosferze, np. przy płom
 
 **Krok 2: Osadzenie Geometrii Gwiaździstej**
 
-![star-shaped_bioelectrical_interface](star-shaped_bioelectrical_interface.png)
+![star-shaped_bioelectrical_interface](img/star-shaped_bioelectrical_interface.png)
 
 1.  Weź mały, sterylny pojemnik (np. petrifka lub plastikowa miseczka).
 2.  Ułóż 4 lub 5 elektrod w kształcie gwiazdy lub krzyża. Elektrody powinny znajdować się w odległości około 1.5 - 2 cm od siebie, a ich końce powinny być skierowane do środka. Upewnij się, że są one stabilnie ustawione.
@@ -89,7 +89,7 @@ Po fizycznej realizacji Hydrożelowego Mostu Fazowego, kolejnym kluczowym etapem
 
 Faza I: Architektura Analogowego Front-Endu
 
-![analog_front-end](analog_front-end.png)
+![analog_front-end](img/analog_front-end.png)
 
 Układ pomiarowy musi być zaprojektowany tak, aby jak najbardziej wiernie przekształcić analogowy sygnał jonowy z powierzchni hydrożelu w sygnał elektryczny, jednocześnie minimalizując szum. Proponowana architektura składa się z trzech sekcji:
 
@@ -150,7 +150,7 @@ Niniejszy protokół jest świadomy że jest to tylko pierwszy krok. Jego głów
 
 2. Implementacja Sensora Kwantowego (SiC) (TRL 4): Docelowym celem jest zastąpienie układu elektrod grafitowych/srebrnych i analogowego front-endu zintegrowanym, kwantowym sensor na bazie 4H-Silicon Carbide (4H-SiC). Defekty divacancy w SiC działają jak pojedyncze atomy, których stan spinowy można manipulować i odczytywać w temperaturze pokojowej dzięki technice ODMR (Optically Detected Magnetic Resonance). HMF w tym scenariuszu pełni inną, kluczową rolę: chroni stany kwantowe przed dekoherencją spowodowaną przez jony reaktywne (ROS) i jonowy hałas z środowiska biologicznego. Sygnał jonowy z grzybni moduluje lokalne pole elektryczne na powierzchni SiC, co zmienia poziomy energetyczne defektu poprzez efekt Starka, co jest procesem w pełni ciągłym, bez udziału przetwornika ADC.
 
-![stark_effect](stark_effect.png)
+![stark_effect](img/stark_effect.png)
 
 3. Skalowanie i Automatyzacja: Po udowodnieniu koncepcji z użyciem SiC, następne kroki obejmują skalowanie systemu, jego automatyzację, rozwój algorytmów AI do analizy danych w czasie rzeczywistym oraz wdrożenie w prototypowych urządzeniach klinicznych (Trajectory Clinics). HMF w wersji SiC staje się „kotwicą kwantową”, która być może pozwoli astronautom na długotrwałych misjach kosmicznych na utrzymanie homeostazy w warunkach hipomagnetycznych (LifeNode Filar III Kosmiczna Bioinżynieria).
 
