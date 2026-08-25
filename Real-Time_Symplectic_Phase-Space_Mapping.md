@@ -1,6 +1,6 @@
 # Real-Time Symplectic Phase-Space Mapping (S3 Sequence Attractor Reconstruction)
 
-![Real-Time Symplectic Phase-Space Mapping](real-time_symplectic_phase-space_mapping.png)
+![Real-Time Symplectic Phase-Space Mapping](img/real-time_symplectic_phase-space_mapping.png)
 
 ## 1. Header & System Status
 
