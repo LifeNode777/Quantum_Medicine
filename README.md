@@ -16,6 +16,22 @@
 </div>
 ---
 
+### 🗓️ 25 August 2026 — XPT Absorption: Human-Substrate Phase Diagnostics & Zero-Build Dataset Ingestion
+
+The companion repository [`Xeno-Phase-Trajectories`](https://github.com/LifeNode777/Xeno-Phase-Trajectories) (XPT) recently formalized the taxonomy of non-linear inter-layer coupling events (APT Classes I–V) using the quantitative vocabulary ($\theta$, $\kappa$, $\Delta E$, $Z_\phi$) originally defined in this repository's ASCALON and STR frameworks. 
+
+To close the architectural loop and pay the falsification debt—specifically by providing the missing human measurement protocol for ASCALON's falsification condition #3—this repository now formally absorbs the medical-side implications of XPT.
+
+**What changed:**
+*   **New Document:** [`XENO-PHASE_DIAGNOSTICS_v0.1.md`](docs/XENO-PHASE_DIAGNOSTICS_v0.1.md) — Translates the 5 APT classes into ASCALON/Finsler/NLSE language, defines the human-as-sensor offline measurement layer (EEG + HRV), and formalizes the 24H-DIAGNOSTIC breath/body proxies as a falsifiable, garage-level $\theta_{proxy}$ estimator.
+*   **Doctrine Check:** The human measurement layer is strictly an **offline observation loop**. It never closes into neurofeedback. This preserves the core LifeNode doctrine: *no ADC/discretization in the active biological feedback loop*.
+*   **Module G (Zero-Build) Ingestion:** The XPT Evidence Dataset ([Zenodo 21823253](https://zenodo.org/records/21823253)) is now an open target for the Takens/$\theta(t)$ sliding-window pipeline (logged in the `PHASE_1` repository), expanding our validation baseline beyond PhysioNet and Eden Node 0.
+*   **Safety Boundary:** Hard clinical boundaries are explicitly declared. Class V (Traumatic) interactions are trauma exposures first and dynamical objects second; clinical referral always precedes modeling.
+
+> *"Xenomorphs were a metaphor. The math is real."*
+
+---
+
 **From Ionic Impulse to Phase Attractor: Experimental Protocol for the Bio-Digital Phase Bridge (HMF v2.0) with *Pleurotus ostreatus* Mycelium**
 
 
