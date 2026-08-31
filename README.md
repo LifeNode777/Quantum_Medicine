@@ -18,6 +18,10 @@ To examine the fabric of reality fragmented by a reductionist paradigm and claim
 </div>
 ---
 
+![dead_medicine_dead_heart](img/dead_medicine_dead_heart.png)
+
+---
+
 ### 🗓️ 25 August 2026 — XPT Absorption: Human-Substrate Phase Diagnostics & Zero-Build Dataset Ingestion
 
 The companion repository [`Xeno-Phase-Trajectories`](https://github.com/LifeNode777/Xeno-Phase-Trajectories) (XPT) recently formalized the taxonomy of non-linear inter-layer coupling events (APT Classes I–V) using the quantitative vocabulary ($\theta$, $\kappa$, $\Delta E$, $Z_\phi$) originally defined in this repository's ASCALON and STR frameworks. 
