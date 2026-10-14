@@ -1,6 +1,6 @@
 # XENO-PHASE DIAGNOSTICS v0.1
 ## Human-Substrate Phase-Coupling Diagnostics: Operationalizing the XPT Taxonomy in the Language of ASCALON, Finsler Geometry, and NLSE Solitons
-
+![REAL_SCIENCE_NOT_ REDUCTIONIST_BITCHES_XDD](../REAL_SCIENCE_NOT_ REDUCTIONIST_BITCHES_XDD.png)
 **Author:** Krzysztof Baran / LifeNode Research Collective
 **Version:** 0.1 (Draft)
 **Date:** 25 August 2026
@@ -73,7 +73,7 @@ The companion repository `Xeno-Phase-Trajectories` (XPT) formalizes "the resonan
 **Class V — Traumatic.** The impedance is not matched or mismatched — it is **broken**: coupling forced under extreme stress, NDE, torture, rape. The signature "nothing at impact" (dissociation; pain deferred) is the signature of a trajectory whose self-reporting loop has been topologically severed: in the sheaf-cohomology language of Multiperspective V2, a **cohomological gap** $dF \neq 0$; in reconstruction language, rigidification ($D_2 \to 1$, frozen attractor). This is the one class where the document steps back: trauma care is clinical work. The dynamical description exists to guide *recovery geometry* (Λ-Reentry: controlled re-introduction of chaos to melt the frozen attractor), always downstream of clinical help.
 
 ## 4. Measurement Layer: EEG + HRV as the Offline Diagnostic Loop
-
+![EEG-HRV_Phase_Coupling_Diagnostic_Array](../EEG-HRV_Phase_Coupling_Diagnostic_Array.png)
 **4.1 Doctrine.** The human measurement layer is the second (observation) loop; it never closes into feedback at v0.1. All analysis is offline. This keeps the protocol compatible with the no-ADC-in-the-loop doctrine and with research ethics (no stimulation of anomalous states).
 
 **4.2 EEG (inherited from XPT NEURO/EEG-HRV, condensed).** Filtering 0.5–100 Hz + 50/60 Hz notch; artifacts via ICA + ASR + visual; bands delta 1–4, theta 4–8, alpha 8–13, beta 13–30, low-gamma 30–45, high-gamma 55–80 Hz. Measures: PLV, ciPLV, PLI, wPLI (sensor + source space); time-resolved PLV (2 s window, 0.5 s step); PAC (Modulation Index / Mean Vector Length, esp. theta–gamma); Global Field Power; metastability; Lempel–Ziv complexity; eLORETA/beamformer if ≥ 64 channels.
