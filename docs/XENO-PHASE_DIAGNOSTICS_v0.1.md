@@ -1,6 +1,8 @@
 # XENO-PHASE DIAGNOSTICS v0.1
 ## Human-Substrate Phase-Coupling Diagnostics: Operationalizing the XPT Taxonomy in the Language of ASCALON, Finsler Geometry, and NLSE Solitons
+
 ![REAL_SCIENCE_NOT_ REDUCTIONIST_BITCHES_XDD](../img/REAL_SCIENCE_NOT_ REDUCTIONIST_BITCHES_XDD.png)
+
 **Author:** Krzysztof Baran / LifeNode Research Collective
 **Version:** 0.1 (Draft)
 **Date:** 25 August 2026
