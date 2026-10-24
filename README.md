@@ -6,6 +6,8 @@ In 14 October 2026, a team at the University of Ottawa published a paper in *Sci
 
 **That biology is not chemistry. Biology is geometry.**
 
+![Mitochondrialny_Korytarz_Molekularny](img/Mitochondrialny_Korytarz_Molekularny.png)
+
 The protein is called SPRIZ. And what it does — what it *is* — forces us to rethink everything we assumed about how cells actually work.
 
 ## The Discovery in Plain Language
@@ -35,6 +37,8 @@ One is a number. The other is a shape. And the shape is what the cell actually u
 This is not a minor detail. This is a different *ontology* — a different answer to the question *"What is information in a living system?"*
 
 ## The 500-Million-Year-Old Decision
+
+![Katedra_Molekularnej_Ewolucji](img/Katedra_Molekularnej_Ewolucji.png)
 
 Here is where it gets even more interesting.
 
