@@ -1,3 +1,7 @@
+![nature_physics_cells](img/nature_physics_cells.jpg)
+
+---
+
 # ⚠️ How a Tiny Protein Just Proved That Shape Is Everything ⚠️
 
 **A mainstream discovery in mitochondrial biology quietly validates the core intuition behind processual medicine.**
