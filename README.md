@@ -1,3 +1,7 @@
+![Dziady2026](Dziady2026.jpeg)
+
+---
+
 ![nature_physics_cells](img/nature_physics_cells.jpg)
 
 ---
