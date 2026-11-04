@@ -1,8 +1,29 @@
-![Dziady2026](Dziady2026.jpeg)
+**LifeNode Trajectory Medicine Framework (TMF)**
 
----
+This foundational whitepaper develops the research architecture of Quantum Medicine, the second pillar of the LifeNode project. Guided by the principle **Process > State**, it investigates whether the temporal organisation and geometry of physiological trajectories can reveal useful information beyond conventional signal summaries and established analytical methods.
+![Trajectory_Medicine_Whitepaper](img/Trajectory_Medicine_Whitepaper.jpg)
+Within LifeNode’s broader programme—ecosystem regeneration, quantum medicine and cosmic bioengineering—TMF translates a shared process-centred perspective into a defined research question: **can trajectory-based descriptors provide reproducible incremental value in the analysis of longitudinal physiological signals?**
 
-![nature_physics_cells](img/nature_physics_cells.jpg)
+The framework organises this investigation through the **BIOS → INFO → META** architecture: biological sources and acquisition conditions; reproducible signal processing and mathematical reconstruction; and interpretation, provenance and human review. It connects delay-coordinate reconstruction, candidate direction-dependent geometric descriptors and the project-defined ASCALON metric with explicit requirements for numerical specification, calibration and empirical testing.
+
+The whitepaper develops:
+
+- **A hardware-independent Zero-Build pathway**, beginning with retrospective ECG rhythm characterisation, subject-level data separation and comparison against strong conventional and nonlinear baselines.
+- **Six falsification gates (F0–F5)** covering mathematical correctness, robustness, incremental value, structured null controls, independent replication and prospective silent evaluation.
+- **An independent HMF materials research branch**, investigating hydrogel-based ionic-to-electronic transduction through controlled measurements of transfer response, impedance, phase error and drift.
+- **A reproducibility and provenance contract**, including frozen analysis specifications, acquisition metadata, versioned code, uncertainty reporting and preservation of negative results.
+- **A proposed six-month research cycle**, with explicit decision points to continue, narrow, redesign or stop a tested research direction.
+
+This expanded illustrated edition includes six conceptual research plates, a claim registry, a minimum experiment-record schema and implementation and review checklists. It distinguishes established mathematical formalisms and external biological observations from LifeNode-specific constructions, engineering proposals and hypotheses awaiting validation.
+
+TMF is presented as a research framework and validation roadmap. It does not report a clinically validated diagnostic system, a demonstrated early-warning horizon or an established therapeutic intervention. Its immediate contribution is an auditable structure for testing trajectory-based physiological analysis, with successful and negative outcomes held to the same publication standard.
+
+**Author:** Krzysztof Baran · LifeNode Research Collective  
+**Version:** 1.1 — Expanded Illustrated Edition  
+**Date:** 31 October 2026  
+**Licence:** Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
+https://github.com/LifeNode777/Quantum_Medicine/blob/main/LifeNode_Trajectory_Medicine_Framework_v1.1_Illustrated_Expanded.pdf
 
 ---
 
